@@ -9,7 +9,7 @@ This is achieved by playing the original song for the singer through the headpho
 ## How to set up
 In the directory there is a file called .env in which you must change the path to where your files are located.
 
-La variable a cambiar es **DATA_PATH**
+The variable that has to be changed is **DATA_PATH**
 
 ## How to set up files
 In the assigned folder there must be a file in JSON format with the following structure:
