@@ -12,7 +12,7 @@ In the directory there is a file called .env in which you must change the path t
 The variable that has to be changed is **DATA_PATH**
 
 ## How to set up files
-In the assigned folder there must be a file in JSON format with the following structure:
+In the assigned folder there must be a file for every song in JSON format with the following structure:
 
 ```
 {
